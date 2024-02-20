@@ -4,10 +4,10 @@ TryGames é um projeto desenvolvido como parte do curso "Trybe" para simular uma
 ## Funcionalidades
 O projeto possui as seguintes funcionalidades:
 
-Adição de jogador: Opção de adicionar um jogador ao banco de dados.
-Adição de um estudio: Opção de adicição de um novo estudio de jogos.
-adição de jogo: Permite adicionar um novo jogo ao banco de dados.
-Pesquisa: permite pesquisar jogadores e jogos do banco de dados(Inclusive permite pesquisar pelo desenvolvedor, ou seja, por estudio).
+- Adição de jogador: Opção de adicionar um jogador ao banco de dados.
+- Adição de um estudio: Opção de adicição de um novo estudio de jogos.
+- adição de jogo: Permite adicionar um novo jogo ao banco de dados.
+- Pesquisa: permite pesquisar jogadores e jogos do banco de dados(Inclusive permite pesquisar pelo desenvolvedor, ou seja, por estudio).
 
 ## Tecnologias Utilizadas
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
