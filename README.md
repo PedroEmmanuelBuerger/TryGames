@@ -1,4 +1,4 @@
-## -TryGames
+## TryGames
 TryGames é um projeto desenvolvido como parte do curso "Trybe" para simular uma plataforma de jogos online, aonde o utlizador deve armazenar, adicionar e pesquisar informações sobre os jogadores, jogos e estudio dos jogos.
 
 ## Funcionalidades
